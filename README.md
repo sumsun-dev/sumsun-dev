@@ -29,4 +29,4 @@
 
 ---
 
-[sanghyun.dev](https://sanghyun.dev) · [@crypto_offroad](https://t.me/crypto_offroad)
+[@crypto_offroad](https://t.me/crypto_offroad)
