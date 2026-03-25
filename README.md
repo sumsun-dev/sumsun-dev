@@ -22,12 +22,12 @@
 | good-vibe-coding | 초보자를 위한 Claude Code 한국어 온보딩, 프로젝트 및 에이전트 관리 기능 플러그인이 없다. | Claude Code용 인터랙티브 설정 마법사 플러그인 제작 | [repo](https://github.com/sumsun-dev/good-vibe-coding) |
 | awesome-web3-claude | Web3 AI 개발 도구가 파편화되어 있다 | MCP 서버, AI 에이전트, 개발 도구 큐레이션 | [repo](https://github.com/sumsun-dev/awesome-web3-claude) |
 | The-Ticker-is-ETH | 비영리 팀을 위한 웹사이트가 없으며 기여 측정 시각화 문제 | 텔레그램과 연동 된 기여 측정 및 커뮤니티 허브 사이트 제작 | [repo](https://github.com/sumsun-dev/The-Ticker-is-ETH) |
-| harness-dashboard | AI Native 조직의 성과 측정 및 관리를 할 수 있는 대시보드가 없다. | 깃허브와 연동하여 팀 별, 개인 별 커밋, PR, 리뷰, 이슈, Harness 활용 등을 측명하는 대시보드 제작 | @ DeSpread |
-| da-multireview | AI 기획 & 코드 리뷰가 Claude 단일 관점이다 | 멀티모델(Claude + Codex + Gemini) 교차 검증 & 다각화 시스템 플러그인 (Skills & AI Agents) | @ DeSpread |
-| da-docs | 프로젝트 문서가 코드와 동기화 안 된다 | AI Native 문서 자동 생성 + 코드 변경 연동 최신화 플러그인 (Skills & AI Agents) | @ DeSpread |
-| da-plugin-factory | 팀마다 플러그인 만드는 게 어렵다 | 대화형 위자드로 플러그인 생성→검증→PR 원스톱 플러그인 (Skills & AI Agents) | @ DeSpread |
-| da-data-pipeline | 디지털자산에 대한 평가 데이터가 없다. | 평가 프레임워크 개발을 통해 이해할 수 있는 점수로 표현 | @ DeSpread |
-| da-data-local-dashboard | 국내 디지털자산 관계에 대해 정리된 곳이 없다. | 국내 원화스테이블코인, DAT, RWA&STO에 대한 관계 데이터 대시보드 제작 | @ DeSpread |
+| harness-dashboard | AI Native 조직의 성과 측정 및 관리를 할 수 있는 대시보드가 없다. | 깃허브와 연동하여 팀 별, 개인 별 커밋, PR, 리뷰, 이슈, Harness 활용 등을 측명하는 대시보드 제작 | DeSpread |
+| da-multireview | AI 기획 & 코드 리뷰가 Claude 단일 관점이다 | 멀티모델(Claude + Codex + Gemini) 교차 검증 & 다각화 시스템 플러그인 (Skills & AI Agents) | DeSpread |
+| da-docs | 프로젝트 문서가 코드와 동기화 안 된다 | AI Native 문서 자동 생성 + 코드 변경 연동 최신화 플러그인 (Skills & AI Agents) | DeSpread |
+| da-plugin-factory | 팀마다 플러그인 만드는 게 어렵다 | 대화형 위자드로 플러그인 생성→검증→PR 원스톱 플러그인 (Skills & AI Agents) | DeSpread |
+| da-data-pipeline | 디지털자산에 대한 평가 데이터가 없다. | 평가 프레임워크 개발을 통해 이해할 수 있는 점수로 표현 | DeSpread |
+| da-data-local-dashboard | 국내 디지털자산 관계에 대해 정리된 곳이 없다. | 국내 원화스테이블코인, DAT, RWA&STO에 대한 관계 데이터 대시보드 제작 | DeSpread |
 
 ---
 
@@ -73,9 +73,9 @@
 | | Project | 풀고 싶은 문제 | Progress |
 |---|---------|---------------|----------|
 | 📖 | ai-book | AI 멀티 에이전트로 책을 쓸 수 있을까 | `████████░░` 80% |
-| 🖥️ | my-site | 포트폴리오를 터미널처럼 보여줄 수 있을까 | `████████░░` 80% |
+| 🖥️ | my-site | 나만의 포트폴리오 사이트 | `████████░░` 80% |
 | 💬 | talk-with | 유명인의 사고방식을 AI로 재현할 수 있을까 | `██████░░░░` 60% |
-| 🍳 | ai-chef | 냉장고 재료만으로 뭘 해먹을 수 있을까 | `████░░░░░░` 40% |
+| 🍳 | ai-chef | 개인화 된 냉장고 요리 솔루션 | `████░░░░░░` 40% |
 
 ---
 
